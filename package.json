@@ -1,0 +1,16 @@
+{
+  "name": "ardsnetadvisor",
+  "version": "1.0.0",
+  "description": "React tab component\n\nhttps://github.com/czosnek7/react-re-super-tabs",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-feather": "2.0.3",
+    "react-re-super-tabs": "1.0.5",
+    "react-scripts": "3.4.1",
+    "react-switch": "5.0.1",
+    "styled-components": "4.0.3"
+  }
+}

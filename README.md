@@ -1,2 +1,0 @@
-# ARDSNetAdvisor
-Created with CodeSandbox
